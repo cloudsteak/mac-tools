@@ -1,5 +1,5 @@
 number_of_files=50
-output_directory=/Volumes/SIPP-256
+output_directory=/Volumes/SIPP-SILVER
 
 start_time=$(date +%s)
 

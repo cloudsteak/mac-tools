@@ -1,5 +1,5 @@
 
-output_directory=/Volumes/SIPP-256
+output_directory=/Volumes/SIPP-SILVER
 
 rm $output_directory/music_file_*.mp3
 
